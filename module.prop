@@ -1,0 +1,6 @@
+id=atopwlb
+name=ATOPWLB - 低电量正常关机
+version=1.0.0
+versionCode=10000
+author=rD227
+description=音量上键选择20%、下键选择10%；充电时不关机。自动检测电量节点，失效即停止。配置：/data/adb/atopwlb/config.conf
